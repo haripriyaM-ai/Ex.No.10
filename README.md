@@ -1,8 +1,8 @@
-# Ex.No.10
-Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
+# Ex.No.10 - Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
 
 ## Date:
-## Reg. No.
+## Name : Hari Priya M
+## Reg. No: 212224240047
 
 ## Aim:
 To demonstrate how various prompting techniques (query decomposition, decision-making, semantic filtering, etc.) can be employed to create content such as reports, articles, case studies, or creative works like comic books, using ChatGPT or similar models. The objective is to highlight how different prompt structures affect the content's quality, coherence, and structure.
@@ -55,12 +55,114 @@ content generation scenarios:
 3.	Refine Your Prompts: Gradually introduce more complexity by adding details, refining the structure, and using different prompt techniques like decision making or semantic filtering.
 4.	Evaluate the Output: Review the generated content for clarity, creativity, and accuracy.
 5.	Iterate for Improvement: Based on the feedback, refine the prompts and regenerate the content as needed.
+---
+
+# Scenario 1: Artificial Intelligence Impact on Healthcare
+
+# Basic Prompt
+
+```text
+Explain AI in healthcare.
+```
+## First Draft Output
+<img width="700" height="190" alt="Screenshot 2026-05-19 133449" src="https://github.com/user-attachments/assets/179ada13-eb15-41a9-9574-f2aba70950cf" />
+
+## Prompt Techniques Used
+
+| Prompt Technique    | Purpose                                                      |
+| ------------------- | ------------------------------------------------------------ |
+| Query Decomposition | Divided healthcare into diagnosis, treatment, and monitoring |
+| Answer Engineering  | Requested structured explanation                             |
+| Semantic Filtering  | Asked for beginner-friendly language                         |
+| Tail Generation     | Expanded content with examples                               |
+| Fact Checklist      | Ensured realistic medical examples                           |
+
+## Refined Prompt
+```text
+Explain how AI works in medical assistance in a simple and beginner-friendly way.
+
+Include:
+- How AI is used in diagnosis, treatment, and patient care
+- Simple examples like disease detection and medical chatbots
+- Benefits and limitations
+- Avoid complex technical terms
+
+Structure:
+1. Introduction
+2. Working Process
+3. Applications
+4. Advantages and Challenges
+```
+## Refined Output
+<img width="600" height="700" alt="Screenshot 2026-05-19 133547" src="https://github.com/user-attachments/assets/0b990e95-7e5f-4eae-aefc-bc4d35c2f4df" />
+
+---
+
+# Scenario 2: Creative Writing – Sci-Fi Short Story
+## Basic Prompt
+```text
+Write a sci-fi story.
+```
+
+## First Draft Output
+<img width="800" height="700" alt="Screenshot 2026-05-19 133640" src="https://github.com/user-attachments/assets/18a3c2e5-8944-4ad7-9f5d-7135eb76538a" />
+
+## Prompt Techniques Used
+| Prompt Technique    | Purpose                                    |
+| ------------------- | ------------------------------------------ |
+| Decision Making     | Selected futuristic world setting          |
+| Tail Generation     | Expanded the storyline                     |
+| Semantic Filtering  | Requested cinematic tone                   |
+| Answer Engineering  | Added story structure                      |
+| Query Decomposition | Divided into setting, conflict, and ending |
+
+## Refined Prompt
+```text
+Write a short sci-fi story set 1000 years in the future.
+
+Include:
+- Flying cities
+- AI robots as companions
+- Time travel technology
+
+Tone:
+Emotional and cinematic
+
+Structure:
+1. Introduction
+2. Conflict
+3. Climax
+4. Ending
+
+Length:
+300 words
+```
+
+## Refined Output
+<img width="770" height="890" alt="Screenshot 2026-05-19 133945" src="https://github.com/user-attachments/assets/ec1b4ea6-4bf6-466d-af68-b73c443a4a94" />
+
+---
+
+### Comparison Between Basic and Refined Prompts
+| Feature        | Basic Prompt | Refined Prompt |
+| -------------- | ------------ | -------------- |
+| Clarity        | Low          | High           |
+| Structure      | Weak         | Organized      |
+| Creativity     | Generic      | Detailed       |
+| Tone Control   | None         | Controlled     |
+| Output Quality | Basic        | Professional   |
+
+---
 
 ## Deliverables:
 1.	First Draft: A basic draft of the report, case study, article, or story generated using simple prompts.
 2.	Refined Content: A more detailed and structured output, achieved by applying more advanced prompt techniques.
 3.	Multiple Versions: Different versions of the content, showing the effect of prompt changes on the output.
 4.	Final Version: The polished version of the content after incorporating feedback and refining the prompts.
+
+## Result
+
+The experiment successfully demonstrated how prompt engineering techniques improve the quality, structure, creativity, and clarity of AI-generated content. Refined prompts produced more accurate, engaging, and well-organized outputs compared to basic prompts.
 
 ## Conclusion:
 By applying various prompting techniques, you can generate high-quality content for a wide range of use cases, from business reports and case studies to creative works like short stories and articles. This experiment demonstrates how structured prompting can guide AI models like ChatGPT to create coherent, accurate, and engaging outputs tailored to specific needs.
